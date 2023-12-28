@@ -1,0 +1,7 @@
+-------------------->>>> PROJECTS WITH DOM <<<<------------------
+
+1/ Add friend feature with same button
+2/ Insta like button 
+3/ Custom cursor
+4/ Multiple image hovering animation <<<---
+5/ Insta story feature
